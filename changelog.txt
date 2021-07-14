@@ -1,0 +1,22 @@
+1.1.2
+- Minor improvements to help command
+- Minor optimizations
+
+1.1.1 
+- Added help command
+- Added aliases for all commands
+- Improved feedback for incorrect use of commands
+
+1.1.0
+- Rewrote command handler
+- Added ability to link your discord account to a steam account
+- Added unlink command and steam command
+
+1.0.2
+- Made code less bad (still bad)
+
+1.0.1
+- Fixed a bug where messages would be too long for discord and not get sent
+
+1.0.0
+- Added command to see which steam games users have in common
